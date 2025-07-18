@@ -52,6 +52,7 @@ cd project-directory
 
 
 ## 2. Initialize Terraform
+-
 bash
 Copy
 Edit
@@ -59,6 +60,7 @@ terraform init
 ---
 
 ## 3. Apply Configuration
+-
 bash
 Copy
 Edit
