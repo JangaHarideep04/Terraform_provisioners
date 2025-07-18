@@ -51,13 +51,14 @@ cd project-directory
 
 
 
-### 2. Initialize Terraform
+## 2. Initialize Terraform
 
 ```bash
 terraform init
 
+```
 
-### 3. Apply Configuration
+## 3. Apply Configuration
 
 ```bash
 terraform apply
