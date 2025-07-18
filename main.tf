@@ -8,7 +8,7 @@ variable "cidr" {
 }
 
 resource "aws_key_pair" "example" {
-  key_name   = "test"  # Replace with your desired key name
+  key_name   = "test-new"  # Replace with your desired key name
   public_key = file("C:/Users/hp/.ssh/id_rsa.pub")# Replace with the path to your public key file
 }
 
