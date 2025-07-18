@@ -45,7 +45,11 @@ This project uses **Terraform** to provision a basic **AWS infrastructure** and 
 git clone <your-repo-url>
 cd project-directory
 
-'''
+```
+
+----
+
+
 
 ## 2. Initialize Terraform
 bash
